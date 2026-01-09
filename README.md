@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/md-myinuddin-17b63a348/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="https://www.youtube.com/">
